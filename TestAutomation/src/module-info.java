@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jackforman
- *
- */
-module TestAutomation {
-}
